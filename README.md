@@ -24,7 +24,7 @@ The final report contains three interactive Power BI pages:
 
 ### 1. Executive Overview
 
-![Executive Overview](assets/01_executive_overview.png)
+![Executive Overview](assets/executive_overview.png)
 
 This page provides a management-level view of:
 
@@ -49,7 +49,7 @@ This page provides a management-level view of:
 
 ## 2. Customer & Churn Analysis
 
-![Customer & Churn Analysis](assets/02_customer_churn_analysis.png)
+![Customer & Churn Analysis](assets/customer_&_churn_analysis.png)
 
 This page investigates where churn occurs and its financial impact.
 
@@ -77,7 +77,7 @@ Analysis includes:
 
 ## 3. Product Usage & Retention
 
-![Product Usage & Retention](assets/03_product_usage_retention.png)
+![Product Usage & Retention](assets/usage_&_retention.png)
 
 This page explores whether product engagement and reliability are related to retention.
 
